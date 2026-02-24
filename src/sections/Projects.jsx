@@ -6,16 +6,15 @@ const projects = [
     description:
       "Engaging tech education with expert guidance to launch your future.",
     image: "/projects/project1.webp",
-    tags: ["React", "Typescript", "NodeJS"],
+    tags: ["React", "Javascript", "Tailwind", "Vercel"],
     link: "https://sonarb-tech.vercel.app/",
     github: "https://github.com/Nwose/sonarbTech",
   },
   {
     title: "Tech Service Platform",
-    description:
-      "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
+    description: "From websites to ICT support, we’re here to make tech simple",
     image: "/projects/project2.webp",
-    tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
+    tags: ["React", "Tailwind", "Vercel"],
     link: "https://www.jowistudio.com/",
     github: "https://github.com/Nwose/jowis",
   },
@@ -24,16 +23,16 @@ const projects = [
     description:
       "An intelligent financial management platform with real-time analytics and automated insights.",
     image: "/projects/project3.webp",
-    tags: ["React", "OpenAI", "Python", "FastAPI"],
+    tags: ["Next.js", "TypeScript", "Python", "Vercel"],
     link: "https://www.pristincapital.com/",
     github: "https://github.com/Nwose/pristinCapital",
   },
   {
     title: "Pulita Energy",
     description:
-      "A collaborative workspace for teams with real-time updates, task tracking, and integrations.",
+      "We offer LPG & CNG generators that save money, reduce emissions, and ensure peace of mind. No more fuel stress or blackouts—just sustainable power.",
     image: "/projects/project4.webp",
-    tags: ["Next.js", "Socket.io", "MongoDB", "Redis"],
+    tags: ["Next.js", "Tailwind", "MongoDB", "Vercel"],
     link: "https://pulita-energy-gamma.vercel.app/",
     github: "https://github.com/Nwose/pulita-energy",
   },
