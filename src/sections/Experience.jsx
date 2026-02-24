@@ -1,6 +1,6 @@
 const experiences = [
   {
-    period: "Jun 2025 — June 2026",
+    period: "Jun 2025 — Jan 2026",
     role: "Software Engineer",
     company: "The Hive Incubator",
     description:
